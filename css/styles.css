@@ -10257,7 +10257,7 @@ img::-moz-selection {
 }
 
 .masthead-bar {
-    height: 100px;
+    height: 2vh;
     width: 100%;
     margin: 0;
     display: flex;
