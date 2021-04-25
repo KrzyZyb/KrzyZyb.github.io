@@ -10280,6 +10280,10 @@ img::-moz-selection {
     margin-bottom: 0px;
 }
 
+.exp-ico {
+    text-align: right;
+}
+
 #wrapper {
     text-align: center;
 }
