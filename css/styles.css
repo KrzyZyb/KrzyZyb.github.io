@@ -10275,6 +10275,11 @@ img::-moz-selection {
     color: var(--yellow);
 }
 
+.exp-desc {
+    text-align: left;
+    margin-bottom: 0px;
+}
+
 #wrapper {
     text-align: center;
 }
